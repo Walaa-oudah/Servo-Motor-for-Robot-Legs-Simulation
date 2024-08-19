@@ -17,7 +17,7 @@ This project is about a simulation using TinkerCad for an algorithm operation to
 ### [Project Simulation Link]: (https://www.tinkercad.com/things/1wAaSA0mFTp-servo-motor-for-robot-legs-simulation)
 
 
-#### Design Picture:
+#### Simulation Picture:
 
 <div> 
    
